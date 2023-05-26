@@ -1,0 +1,11 @@
+Une calculatrice React.JS
+- un composant bouton => nom et texte en props, retour opération sur clic
+- un composant input => label + nom + value en props, retour sur change
+- un composant d'affichage du résultat => valeur en props
+- un composant calculatrice pour assembler tout ça
+
+au total:
+2 input pour les nombres
+4 boutons (+,-,/,*)
+1 zone d'affichage du résultat
+CSS 
